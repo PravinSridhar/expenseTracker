@@ -38,3 +38,19 @@ Actions User can perform
     - View a dashboard for the user's expenses
     - have different filters
     - Interactive dashboards like power bi (if possible)
+
+Steps
+- Git Repo
+- Database Setup
+- Development Environment
+- Project Structure
+- Set Up Authentication
+- Feature Development
+- Database Entry Addition
+- Database Integration
+- Front End Pages Development
+- Front End Integration
+- Testing (recurring)
+- Deployment
+- Monitor and Maintain
+- Documentation (recurring)
