@@ -43,8 +43,10 @@ Steps
 - Git Repo
 - Database Setup
 - Development Environment
-- Project Structure
-- Set Up Authentication
+    - Virtual Env
+    - Install libraries
+- Project Structure (architecture)
+- Set Up User Authentication
 - Feature Development
 - Database Entry Addition
 - Database Integration
